@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\nosson\source\repos\s2hw1q3\s2hw1q3\circle.h(7): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  S2HW1Q3.vcxproj -> C:\Users\nosson\source\repos\S2HW1Q3\Debug\S2HW1Q3.exe

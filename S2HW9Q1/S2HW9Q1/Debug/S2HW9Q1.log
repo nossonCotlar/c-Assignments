@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\nosson\source\repos\s2hw9q1\s2hw9q1\main.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\nosson\source\repos\s2hw9q1\s2hw9q1\main.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\nosson\source\repos\s2hw9q1\s2hw9q1\main.cpp(164): warning C4018: '<': signed/unsigned mismatch
+  S2HW9Q1.vcxproj -> C:\Users\nosson\source\repos\S2HW9Q1\Debug\S2HW9Q1.exe

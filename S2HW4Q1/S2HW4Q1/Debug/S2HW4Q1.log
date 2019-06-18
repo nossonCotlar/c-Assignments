@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\nosson\source\repos\s2hw4q1\s2hw4q1\main.cpp(162): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nosson\source\repos\s2hw4q1\s2hw4q1\main.cpp(171): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  S2HW4Q1.vcxproj -> C:\Users\nosson\source\repos\S2HW4Q1\Debug\S2HW4Q1.exe
